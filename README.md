@@ -9,12 +9,14 @@ Ce GitHub présente mes projets personnels : applications Windows, outils de tra
 | Projet | Usage | Points techniques à explorer |
 | --- | --- | --- |
 | [SnapSlate](https://github.com/rangornrar/SnapSlate) | Capturer, annoter et produire des guides | C# / WinUI 3, persistance JSON, exports, compilation Windows et distribution |
-| [WallCraft Pro](https://github.com/rangornrar/MultiScreenWallpaper) | Composer des fonds d’écran pour plusieurs moniteurs | Python, algorithmes géométriques, miniatures de prévisualisation et export haute résolution |
+| [WallCraft Pro](https://github.com/rangornrar/MultiScreenWallpaper) | Composer des fonds d’écran pour plusieurs moniteurs | C# / WinUI 3, Win2D, algorithmes de placement, export haute résolution et paquet MSIX |
 | [LITE Studio](https://github.com/rangornrar/Studio-Planner) | Préparer un plan de studio photo dans le navigateur | JavaScript, Canvas, mesures, presets et interface multilingue |
+| [SismoPC](https://github.com/rangornrar/SismoPC) | Enregistrer l’activité et la santé d’un PC Windows, expliquer les ralentissements | C# / WinUI 3, service Windows, collecte de mesures et détection d’anomalies |
 
 ## Autres travaux
 
 - [Transcript](https://github.com/rangornrar/Transcript) : transcription audio locale avec Whisper et intégration d’une API de génération de texte.
+- [Skills personnels](https://github.com/rangornrar/skills-personnels) : bibliothèque de skills pour assistants IA, validée automatiquement.
 - [Analyse critique et aide à la décision](https://github.com/rangornrar/analyse-critique-decision) : méthode réutilisable pour examiner les hypothèses, les alternatives et les risques avec un assistant IA.
 - [PhotoUpscale](https://github.com/rangornrar/PhotoUpscale) : interface Python de traitement photo par lots.
 
